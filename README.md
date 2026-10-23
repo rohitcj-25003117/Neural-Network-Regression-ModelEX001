@@ -1,7 +1,7 @@
 
-# Neural Network Regression Model
-##NAME :  CJ ROHIT
-##REG NO : 212224243005
+# EX 1 Neural Network Regression Model
+## NAME :  CJ ROHIT
+## REG NO : 212224243005
 ## Aim
 
 To develop a neural network regression model using a numerical dataset.
